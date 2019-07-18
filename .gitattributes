@@ -20,7 +20,6 @@
 *.md text
 *.mel text
 *.php text
-*.shader text
 *.TXT text
 *.xaml text
 *.xml text
@@ -44,6 +43,7 @@ WHATSNEW* text
 .htaccess text eol=lf
 *.txt text eol=lf
 *.json text eol=lf
+*.shader text eol=lf
 
 # Previous "binary"
 *.unity text eol=lf
