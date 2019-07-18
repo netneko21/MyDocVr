@@ -42,8 +42,8 @@ WHATSNEW* text
 *.sh text eol=lf
 *.vspscc text eol=lf
 .htaccess text eol=lf
-*.txt text
-*.json text
+*.txt text eol=lf
+*.json text eol=lf
 
 # Previous "binary"
 *.unity text eol=lf
