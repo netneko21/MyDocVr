@@ -16,13 +16,11 @@
 *.js text
 *.JSFL text
 *.jsfl text
-*.json text
 *.log text
 *.md text
 *.mel text
 *.php text
 *.shader text
-*.txt text
 *.TXT text
 *.xaml text
 *.xml text
@@ -44,6 +42,8 @@ WHATSNEW* text
 *.sh text eol=lf
 *.vspscc text eol=lf
 .htaccess text eol=lf
+*.txt text
+*.json text
 
 # Previous "binary"
 *.unity text eol=lf
