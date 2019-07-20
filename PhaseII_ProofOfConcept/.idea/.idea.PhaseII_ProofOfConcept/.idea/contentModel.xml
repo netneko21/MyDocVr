@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\projects\MyDocVr\PhaseII_ProofOfConcept" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="_Siberdt" t="Include">
+          <e p="_materials" t="Include">
+            <e p="_shaders" t="Include">
+              <e p="AdditiveRim_with3PlanarCutoffMask.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="FictionWare" t="Include">
+          <e p="_materials" t="Include">
+            <e p="_shaders" t="Include">
+              <e p="_ShaderForge" t="Include">
+                <e p="defaultUnlitWithFillColor.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="EditorSpecific" t="Include">
+            <e p="scripts" t="Include">
+              <e p="Editor" t="Include">
+                <e p="FW_EditorShelf.cs" t="Include" />
+                <e p="HierarchyHighlighter.cs" t="Include" />
+              </e>
+              <e p="HierarchyHighlighterComponent.cs" t="Include" />
+              <e p="Outer.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="scripts" t="Include">
+          <e p="MoveEllipses.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="PhaseII_ProofOfConcept.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\titar\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\titar\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_PhaseII_ProofOfConcept.-2018172385.00" t="ExcludeRecursive" />
+  </component>
+</project>
