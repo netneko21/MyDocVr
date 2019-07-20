@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29ee6990-1b2e-4d26-bd39-a42b405ae773" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Panorama.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Panorama.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Floor.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Floor.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Meshes/MainFloor_blockout.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Meshes/MainFloor_blockout.fbx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Meshes/MainWall_blockout.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Meshes/MainWall_blockout.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Stairs_blockout.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Stairs_blockout.fbx.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scene/FirstRoom.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/FirstRoom.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PhaseII_ProofOfConcept/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveEllipses.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveEllipses.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,27 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveEllipses.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-              <folding>
-                <marker date="1563616179044" expanded="true" signature="6:78" ph="..." />
-                <marker date="1563616179044" expanded="true" signature="121:1212" ph="{...}" />
-                <marker date="1563616179044" expanded="true" signature="357:424" ph="{...}" />
-                <marker date="1563616179044" expanded="true" signature="482:1210" ph="{...}" />
-                <marker date="1563616179044" expanded="true" signature="572:843" ph="{...}" />
-                <marker date="1563616179044" expanded="true" signature="623:833" ph="{...}" />
-                <marker date="1563616179044" expanded="true" signature="929:1202" ph="{...}" />
-                <marker date="1563616179044" expanded="true" signature="981:1192" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -62,9 +35,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="46" />
-    <option name="y" value="397" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="167" />
+    <option name="y" value="217" />
     <option name="width" value="1268" />
     <option name="height" value="655" />
   </component>
@@ -91,6 +64,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.build.unityPlugin" />
   </component>
   <component name="RunDashboard">
@@ -131,12 +105,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563612861537</updated>
-      <workItem from="1563612867576" duration="3309000" />
+      <workItem from="1563612867576" duration="5941000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3309000" />
+    <option name="totallyTimeSpent" value="5941000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -148,11 +122,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="134" y="174" width="1014" height="524" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3899371" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -193,17 +166,17 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveEllipses.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="79">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
           <folding>
-            <marker date="1563616179044" expanded="true" signature="6:78" ph="..." />
-            <marker date="1563616179044" expanded="true" signature="121:1212" ph="{...}" />
-            <marker date="1563616179044" expanded="true" signature="357:424" ph="{...}" />
-            <marker date="1563616179044" expanded="true" signature="482:1210" ph="{...}" />
-            <marker date="1563616179044" expanded="true" signature="572:843" ph="{...}" />
-            <marker date="1563616179044" expanded="true" signature="623:833" ph="{...}" />
-            <marker date="1563616179044" expanded="true" signature="929:1202" ph="{...}" />
-            <marker date="1563616179044" expanded="true" signature="981:1192" ph="{...}" />
+            <marker date="1563618672044" expanded="true" signature="6:78" ph="..." />
+            <marker date="1563618672044" expanded="true" signature="121:1098" ph="{...}" />
+            <marker date="1563618672044" expanded="true" signature="342:372" ph="{...}" />
+            <marker date="1563618672044" expanded="true" signature="430:1096" ph="{...}" />
+            <marker date="1563618672044" expanded="true" signature="484:755" ph="{...}" />
+            <marker date="1563618672044" expanded="true" signature="535:745" ph="{...}" />
+            <marker date="1563618672044" expanded="true" signature="815:1088" ph="{...}" />
+            <marker date="1563618672044" expanded="true" signature="867:1078" ph="{...}" />
           </folding>
         </state>
       </provider>

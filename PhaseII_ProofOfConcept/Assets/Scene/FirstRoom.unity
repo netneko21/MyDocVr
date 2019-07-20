@@ -20,7 +20,7 @@ RenderSettings:
   m_FogDensity: 0.01
   m_LinearFogStart: 0
   m_LinearFogEnd: 300
-  m_AmbientSkyColor: {r: 0.64867675, g: 0.7387707, b: 0.7883224, a: 1}
+  m_AmbientSkyColor: {r: 0.6117647, g: 0.7058824, b: 0.7529412, a: 1}
   m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
   m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
   m_AmbientIntensity: 1
@@ -440,6 +440,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 2273a1ea3092a0e4b8fc9de72e75a0a0, type: 2}
+    - target: {fileID: -1504981713932161579, guid: 0f6ed730e0662204a8c58dffcb93b906,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0f6ed730e0662204a8c58dffcb93b906, type: 3}
 --- !u!1 &1092776997
@@ -453,7 +458,7 @@ GameObject:
   - component: {fileID: 1092776998}
   - component: {fileID: 1092776999}
   m_Layer: 0
-  m_Name: Spot Light
+  m_Name: MainCircleLight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
