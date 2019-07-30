@@ -7,8 +7,8 @@ public class MoveEllipses : MonoBehaviour
     public Transform transformTopEllipse;
     public Transform transformBottomEllipse;
     public float speedMove = 1f;
-    float RangeY=0;
-    
+    private float rangeY = 0;
+
 
 
 
@@ -16,35 +16,34 @@ public class MoveEllipses : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
-        
+
+        rangeY = 0;
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (transformTopEllipse.position.y<=2f)
+        
+        
+        if (Input.GetKey(KeyCode.E))
         {
-            if (Input.GetKey(KeyCode.E))
-            {
-                transformTopEllipse.Translate(Vector3.up * Time.deltaTime * speedMove);
-                transformBottomEllipse.Translate(Vector3.down * Time.deltaTime * speedMove);
-
-            }
+            rangeY +=Time.deltaTime * speedMove;
+           
         }
         
-        if (transformTopEllipse.position.y>=0.01f)
+        if (Input.GetKey(KeyCode.Q))
         {
-
-            if (Input.GetKey(KeyCode.Q))
-            {
-
-                transformTopEllipse.Translate(Vector3.down * Time.deltaTime * speedMove);
-                transformBottomEllipse.Translate(Vector3.up * Time.deltaTime * speedMove);
-
-            }
+            rangeY -=Time.deltaTime * speedMove;
+            
         }
 
+        rangeY = Mathf.Clamp(rangeY, 0f, 2f);
+        transformTopEllipse.position = new Vector3 (0, rangeY, 0);
+        transformBottomEllipse.position = new Vector3 (0, -rangeY, 0);
+       
+
+
+        
 
     }
 }

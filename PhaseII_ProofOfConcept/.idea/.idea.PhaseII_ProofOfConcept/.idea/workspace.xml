@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29ee6990-1b2e-4d26-bd39-a42b405ae773" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PhaseII_ProofOfConcept/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PhaseII_ProofOfConcept/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PhaseII_ProofOfConcept/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PhaseII_ProofOfConcept/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PhaseII_ProofOfConcept/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PhaseII_ProofOfConcept/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PhaseII_ProofOfConcept/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveEllipses.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveEllipses.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,7 +14,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveEllipses.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="32" column="8" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+              <folding>
+                <marker date="1563651121596" expanded="true" signature="6:78" ph="..." />
+                <marker date="1563651121596" expanded="true" signature="121:922" ph="{...}" />
+                <marker date="1563651121596" expanded="true" signature="348:381" ph="{...}" />
+                <marker date="1563651121596" expanded="true" signature="439:920" ph="{...}" />
+                <marker date="1563651121596" expanded="true" signature="500:581" ph="{...}" />
+                <marker date="1563651121596" expanded="true" signature="627:709" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -32,13 +52,14 @@
       <list>
         <option value="$PROJECT_DIR$/.idea/.idea.PhaseII_ProofOfConcept/.idea/vcs.xml" />
         <option value="$PROJECT_DIR$/.idea/.idea.PhaseII_ProofOfConcept/.idea/indexLayout.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.PhaseII_ProofOfConcept/.idea/vcs.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="167" />
-    <option name="y" value="217" />
-    <option name="width" value="1268" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="166" />
+    <option name="y" value="216" />
+    <option name="width" value="1269" />
     <option name="height" value="655" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -47,15 +68,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -106,11 +127,12 @@
       <option name="presentableId" value="Default" />
       <updated>1563612861537</updated>
       <workItem from="1563612867576" duration="5941000" />
+      <workItem from="1563649549095" duration="1589000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5941000" />
+    <option name="totallyTimeSpent" value="7530000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -122,18 +144,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="134" y="174" width="1014" height="524" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3899371" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2557047" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -141,11 +156,18 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,17 +188,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveEllipses.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="328">
+          <caret line="32" column="8" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
           <folding>
-            <marker date="1563618672044" expanded="true" signature="6:78" ph="..." />
-            <marker date="1563618672044" expanded="true" signature="121:1098" ph="{...}" />
-            <marker date="1563618672044" expanded="true" signature="342:372" ph="{...}" />
-            <marker date="1563618672044" expanded="true" signature="430:1096" ph="{...}" />
-            <marker date="1563618672044" expanded="true" signature="484:755" ph="{...}" />
-            <marker date="1563618672044" expanded="true" signature="535:745" ph="{...}" />
-            <marker date="1563618672044" expanded="true" signature="815:1088" ph="{...}" />
-            <marker date="1563618672044" expanded="true" signature="867:1078" ph="{...}" />
+            <marker date="1563651121596" expanded="true" signature="6:78" ph="..." />
+            <marker date="1563651121596" expanded="true" signature="121:922" ph="{...}" />
+            <marker date="1563651121596" expanded="true" signature="348:381" ph="{...}" />
+            <marker date="1563651121596" expanded="true" signature="439:920" ph="{...}" />
+            <marker date="1563651121596" expanded="true" signature="500:581" ph="{...}" />
+            <marker date="1563651121596" expanded="true" signature="627:709" ph="{...}" />
           </folding>
         </state>
       </provider>
