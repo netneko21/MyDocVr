@@ -5,7 +5,34 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PhaseII_ProofOfConcept/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PhaseII_ProofOfConcept/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PhaseII_ProofOfConcept/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PhaseII_ProofOfConcept/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PhaseII_ProofOfConcept/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PhaseII_ProofOfConcept/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveEllipses.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveEllipses.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Emissive_green.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Emissive_green.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/WhitePlastic.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/WhitePlastic.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/MainArmchair(Throne)_2.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Meshes/MainArmchair(Throne)_2.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/MainArmchair2.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Meshes/MainArmchair2.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/MainTable(Throne).fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Meshes/MainTable(Throne).fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/testHome2(Throne).fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Meshes/testHome2(Throne).fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/FirstRoom.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/FirstRoom.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/FirstRoom/LightingData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/FirstRoom/LightingData.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/FirstRoom/LightingData.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/FirstRoom/LightingData.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/FirstRoom/Lightmap-0_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/FirstRoom/Lightmap-0_comp_dir.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/FirstRoom/Lightmap-0_comp_dir.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/FirstRoom/Lightmap-0_comp_dir.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/FirstRoom/Lightmap-0_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/FirstRoom/Lightmap-0_comp_light.exr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/FirstRoom/Lightmap-0_comp_light.exr.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scene/FirstRoom/Lightmap-0_comp_light.exr.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/FirstRoom/Lightmap-1_comp_dir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/FirstRoom/Lightmap-1_comp_dir.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/FirstRoom/Lightmap-1_comp_light.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/FirstRoom/Lightmap-1_comp_light.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/FirstRoom/Lightmap-2_comp_dir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/FirstRoom/Lightmap-2_comp_dir.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/FirstRoom/Lightmap-2_comp_light.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/FirstRoom/Lightmap-2_comp_light.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/FirstRoom/ReflectionProbe-0.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scene/FirstRoom/ReflectionProbe-0.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/LightweightRenderPipelineAsset.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/LightweightRenderPipelineAsset.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Props.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shaders/Props.shadergraph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,12 +41,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveEllipses.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="32" column="8" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+            <state>
               <folding>
                 <marker date="1563651121596" expanded="true" signature="6:78" ph="..." />
                 <marker date="1563651121596" expanded="true" signature="121:922" ph="{...}" />
@@ -32,12 +58,18 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.postprocessing@2.1.7/PostProcessing/Runtime/PostProcessDebug.cs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.postprocessing@2.1.7/PostProcessing/Runtime/PostProcessDebug.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveEllipses.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -57,9 +89,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="166" />
-    <option name="y" value="216" />
-    <option name="width" value="1269" />
+    <option name="x" value="165" />
+    <option name="y" value="215" />
+    <option name="width" value="1270" />
     <option name="height" value="655" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -68,15 +100,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
+      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -128,11 +160,13 @@
       <updated>1563612861537</updated>
       <workItem from="1563612867576" duration="5941000" />
       <workItem from="1563649549095" duration="1589000" />
+      <workItem from="1570285073806" duration="540000" />
+      <workItem from="1570298853476" duration="83000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7530000" />
+    <option name="totallyTimeSpent" value="8153000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -146,7 +180,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2557047" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2624161" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -186,10 +220,12 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.postprocessing@2.1.7/PostProcessing/Runtime/PostProcessDebug.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveEllipses.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="32" column="8" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+        <state>
           <folding>
             <marker date="1563651121596" expanded="true" signature="6:78" ph="..." />
             <marker date="1563651121596" expanded="true" signature="121:922" ph="{...}" />
