@@ -47,7 +47,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
-                <marker date="1563651121596" expanded="true" signature="6:78" ph="..." />
+                <element signature="e#0#78#0" expanded="true" />
                 <marker date="1563651121596" expanded="true" signature="121:922" ph="{...}" />
                 <marker date="1563651121596" expanded="true" signature="348:381" ph="{...}" />
                 <marker date="1563651121596" expanded="true" signature="439:920" ph="{...}" />
@@ -100,12 +100,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
@@ -162,11 +162,12 @@
       <workItem from="1563649549095" duration="1589000" />
       <workItem from="1570285073806" duration="540000" />
       <workItem from="1570298853476" duration="83000" />
+      <workItem from="1570355041836" duration="1000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8153000" />
+    <option name="totallyTimeSpent" value="8154000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -180,7 +181,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2624161" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26644295" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -220,9 +221,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.postprocessing@2.1.7/PostProcessing/Runtime/PostProcessDebug.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveEllipses.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -236,6 +234,9 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.postprocessing@2.1.7/PostProcessing/Runtime/PostProcessDebug.cs">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

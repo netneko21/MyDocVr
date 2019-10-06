@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &6658241784042774930
+--- !u!1 &6927987878082837474
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,23 +8,23 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 7655427192840426369}
-  - component: {fileID: 1686189900444051895}
-  - component: {fileID: 4925255381377766734}
+  - component: {fileID: 6232543849403648497}
+  - component: {fileID: 3109022110380405703}
+  - component: {fileID: 8654227745582403390}
   m_Layer: 0
-  m_Name: testHome2(Throne) 2
+  m_Name: testHome(CircleShape)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &7655427192840426369
+--- !u!4 &6232543849403648497
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6658241784042774930}
+  m_GameObject: {fileID: 6927987878082837474}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -32,21 +32,21 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!33 &1686189900444051895
+--- !u!33 &3109022110380405703
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6658241784042774930}
-  m_Mesh: {fileID: 5602016882902125143, guid: 196ff36e416918a44978e3cea72b3f5a, type: 3}
---- !u!23 &4925255381377766734
+  m_GameObject: {fileID: 6927987878082837474}
+  m_Mesh: {fileID: -4070516972838714736, guid: 87ae629db4d1b8e46bc235deae57cd98, type: 3}
+--- !u!23 &8654227745582403390
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6658241784042774930}
+  m_GameObject: {fileID: 6927987878082837474}
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -57,12 +57,9 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 8558ac7b6931c2b4e89d29c28cd14b9a, type: 2}
-  - {fileID: 2100000, guid: 59c292d4aef6ff647ac82f847ad8f509, type: 2}
-  - {fileID: 2100000, guid: 59d533a9d24d3a042bcc65083f4cc9d5, type: 2}
-  - {fileID: 2100000, guid: 53ca0a63c95402f4aa61a3ed930d2046, type: 2}
-  - {fileID: 2100000, guid: 59d533a9d24d3a042bcc65083f4cc9d5, type: 2}
-  - {fileID: 2100000, guid: 050768b2604749f49b6c04209ef9ae8d, type: 2}
+  - {fileID: -5734517496282383659, guid: 87ae629db4d1b8e46bc235deae57cd98, type: 3}
+  - {fileID: 6295219276578638544, guid: 87ae629db4d1b8e46bc235deae57cd98, type: 3}
+  - {fileID: -164002428402946141, guid: 87ae629db4d1b8e46bc235deae57cd98, type: 3}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -75,7 +72,7 @@ MeshRenderer:
   m_ImportantGI: 0
   m_StitchLightmapSeams: 1
   m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 2
+  m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
